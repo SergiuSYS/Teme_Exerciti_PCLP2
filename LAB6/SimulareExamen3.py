@@ -1,3 +1,4 @@
+'''
 nums = [1, 3, 4, 6, 6, 7]
 
 hashSet = set()
@@ -12,3 +13,4 @@ for n in nums:
 hashSet -= duplicates
 
 print(hashSet)
+'''
