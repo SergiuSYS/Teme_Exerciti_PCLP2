@@ -2,6 +2,7 @@ filein = open('LAB7(Fișiere și Directoare în Python)/input.txt','r')
 fileout = open('LAB7(Fișiere și Directoare în Python)/output.txt','w')
 
 vocale = {'a', 'e', 'i', 'o', 'u', 'A', 'E', 'I', 'O', 'U'} 
+
 #prin iterare
 var = filein.read().split(' ')
 a =[]
