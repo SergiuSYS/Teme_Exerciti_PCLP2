@@ -1,0 +1,48 @@
+Product Name,Product Type,Price,Origin Country,About Product
+Apple,Food,1.00,United States,Healthy Crunch
+Banana,Food,0.50,Ecuador,Yellow Delight
+Orange,Food,0.75,United States,Citrus Burst
+Milk,Dairy,2.50,United States,Creamy Moo
+Eggs,Dairy,1.75,United States,Fresh Nest
+Bread,Bakery,2.00,United States,Golden Crust
+Butter,Dairy,3.00,United States,Smooth Spread
+Carrot,Food,0.75,United States,Orange Crunch
+Broccoli,Food,1.50,United States,Green Bites
+Chicken,Meat,5.00,United States,Protein Power
+Beef,Meat,8.00,United States,Juicy Cut
+Salmon,Seafood,10.00,United States,Ocean Catch
+Shrimp,Seafood,12.00,United States,Tiny Treats
+Chocolate,Snack,3.50,Switzerland,Sweet Bliss
+Chips,Snack,2.50,United States,Crunchy Munch
+Soda,Drink,1.25,United States,Fizzy Fix
+Water,Drink,1.00,United States,Clean Quench
+Laptop,Electronics,1000.00,China,Portable Power
+Smartphone,Electronics,800.00,South Korea,Mobile Hub
+Tablet,Electronics,600.00,United States,Touch Screen
+Television,Electronics,1500.00,Japan,Home Theater
+Microwave,Appliance,200.00,United States,Quick Cook
+Toaster,Appliance,50.00,United States,Crisp Toast
+Coffee Maker,Appliance,100.00,Italy,Brew Master
+Blender,Appliance,75.00,United States,Smoothie Mixer
+Washing Machine,Appliance,500.00,United States,Laundry Buddy
+Vacuum Cleaner,Appliance,150.00,Germany,Dust Buster
+T-shirt,Apparel,15.00,United States,Comfy Tee
+Jeans,Apparel,50.00,United States,Denim Classic
+Sneakers,Apparel,75.00,United States,Active Step
+Dress,Apparel,60.00,France,Elegant Charm
+Suit,Apparel,200.00,Italy,Formal Elegance
+Socks,Apparel,5.00,United States,Cozy Cover
+Underwear,Apparel,10.00,United States,Essential Comfort
+Backpack,Accessories,30.00,United States,On-the-Go
+Watch,Accessories,100.00,Switzerland,Time Keeper
+Sunglasses,Accessories,50.00,Italy,Fashion Shield
+Headphones,Accessories,80.00,Japan,Sound Stage
+Wallet,Accessories,25.00,United States,Money Holder
+Perfume,Beauty,50.00,France,Fragrance Essence
+Shampoo,Beauty,10.00,United States,Hair Revive
+Sunscreen,Beauty,15.00,United States,Skin Shield
+Lip Balm,Beauty,3.00,United States,Moisture Magic
+Face Mask,Beauty,5.00,South Korea,Face Refresh
+Nail Polish,Beauty,8.00,United States,Color Pop
+Razor,Beauty,12.00,Germany,Smooth Shave
+Toothpaste,Beauty,4.00,United States,Minty Fresh
